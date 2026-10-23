@@ -1,0 +1,23 @@
+[
+  { "id": 1, "title": "Part-time Job Salary", "amount": 18000, "type": "income", "category": "Salary", "date": "2026-10-01", "notes": "October payout from campus cafe" },
+  { "id": 2, "title": "Freelance Logo Design", "amount": 4500, "type": "income", "category": "Freelance", "date": "2026-10-12", "notes": "Logo for a local startup" },
+  { "id": 3, "title": "Hostel Mess Fees", "amount": 3500, "type": "expense", "category": "Food", "date": "2026-10-02", "notes": "Monthly mess charges" },
+  { "id": 4, "title": "Metro Card Recharge", "amount": 600, "type": "expense", "category": "Travel", "date": "2026-10-04", "notes": "College commute" },
+  { "id": 5, "title": "Data Structures Textbook", "amount": 850, "type": "expense", "category": "Education", "date": "2026-10-06", "notes": "Second-hand copy" },
+  { "id": 6, "title": "Mobile Recharge", "amount": 299, "type": "expense", "category": "Bills", "date": "2026-10-08", "notes": "28-day prepaid plan" },
+  { "id": 7, "title": "Movie Night", "amount": 450, "type": "expense", "category": "Entertainment", "date": "2026-10-10", "notes": "With hostel friends" },
+  { "id": 8, "title": "Running Sneakers", "amount": 2499, "type": "expense", "category": "Shopping", "date": "2026-10-14", "notes": "Festival sale" },
+  { "id": 9, "title": "Pharmacy", "amount": 320, "type": "expense", "category": "Health", "date": "2026-10-16", "notes": "Cold and cough medicine" },
+  { "id": 10, "title": "Online Course Subscription", "amount": 1299, "type": "expense", "category": "Education", "date": "2026-10-18", "notes": "React course" },
+  { "id": 11, "title": "Weekend Trip Bus Tickets", "amount": 1200, "type": "expense", "category": "Travel", "date": "2026-10-20", "notes": "Return tickets to hometown" },
+  { "id": 12, "title": "Snacks and Groceries", "amount": 640, "type": "expense", "category": "Food", "date": "2026-10-21", "notes": "Fruits, biscuits, juice" },
+  { "id": 13, "title": "Part-time Job Salary", "amount": 18000, "type": "income", "category": "Salary", "date": "2026-09-01", "notes": "September payout" },
+  { "id": 14, "title": "Hostel Mess Fees", "amount": 3500, "type": "expense", "category": "Food", "date": "2026-09-02", "notes": "Monthly mess charges" },
+  { "id": 15, "title": "Electricity Bill Share", "amount": 780, "type": "expense", "category": "Bills", "date": "2026-09-10", "notes": "Shared with roommates" },
+  { "id": 16, "title": "Concert Ticket", "amount": 1500, "type": "expense", "category": "Entertainment", "date": "2026-09-18", "notes": "College fest night" },
+  { "id": 17, "title": "Laptop Bag", "amount": 1800, "type": "expense", "category": "Shopping", "date": "2026-09-22", "notes": "Waterproof bag" },
+  { "id": 18, "title": "Freelance Website Fix", "amount": 3000, "type": "income", "category": "Freelance", "date": "2026-08-20", "notes": "Fixed layout bugs for a client" },
+  { "id": 19, "title": "Exam Fees", "amount": 2200, "type": "expense", "category": "Education", "date": "2026-08-14", "notes": "Semester exam registration" },
+  { "id": 20, "title": "Doctor Visit", "amount": 700, "type": "expense", "category": "Health", "date": "2026-08-25", "notes": "Routine check-up" },
+  { "id": 21, "title": "Birthday Gift", "amount": 1000, "type": "expense", "category": "Other", "date": "2026-08-28", "notes": "Gift for a friend" }
+]
