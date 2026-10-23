@@ -58,6 +58,7 @@ Expense body: `{ "title": "Lunch", "amount": 250, "category": "Food", "date": "2
 ```
 Group-Project/
 ├── README.md
+├── .gitignore
 ├── screenshots/
 ├── client/                   # React (Vite)
 │   ├── index.html
@@ -80,4 +81,15 @@ Group-Project/
 ```
 
 ## Screenshots
-Add images to `screenshots/` and link them here, e.g. `![Dashboard](screenshots/dashboard.png)`.
+
+**Dashboard**
+
+![Dashboard](screenshots/01-dashboard.jpeg)
+
+**Add expense & expense list**
+
+![Add Expense](screenshots/02-add-expense.jpeg)
+
+**Expenses table & spending by category**
+
+![Expenses and Analytics](screenshots/03-expenses-and-analytics.jpeg)
